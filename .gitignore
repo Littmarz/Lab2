@@ -1,0 +1,4 @@
+*.deb
+data/
+meta/
+pack_inf.sh.save
